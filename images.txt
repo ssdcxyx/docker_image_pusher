@@ -1,1 +1,2 @@
+# 指定架构
 --platform=linux/amd64 oceanbase/kube-rbac-proxy:v0.13.1
