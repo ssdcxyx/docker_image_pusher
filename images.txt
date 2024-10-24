@@ -1,2 +1,4 @@
 # 指定架构
 --platform=linux/amd64 oceanbase/kube-rbac-proxy:v0.13.1
+--platform=linux/amd64 oceanbase/oceanbase-cloud-native:4.3.3.0-100000142024101215
+--platform=linux/amd64 oceanbase/obagent:4.2.1-100000092023101717
